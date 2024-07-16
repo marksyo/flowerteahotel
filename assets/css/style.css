@@ -5280,6 +5280,7 @@ button[aria-expanded="true"] .fa {
   font-weight: 600;
   font-size: 20px;
   line-height: 40px;
+  margin-left: 30px;
 }
 
 .footer-area p {
@@ -5326,4 +5327,24 @@ button[aria-expanded="true"] .fa {
 .h_center{
  text-align: center; 
  
+}
+
+.box29 {
+  margin: 2em 0;
+  background: #dcefff;
+  max-width: 400px;
+    margin: 1em auto !important;
+}
+.box29 .box-title {
+  font-size: 1.2em;
+  background: #5fb3f5;
+  padding: 4px;
+  text-align: center;
+  color: #FFF;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+}
+.box29 p {
+  padding: 15px 20px;
+  margin: 0;
 }
