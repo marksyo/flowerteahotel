@@ -35,7 +35,7 @@
 
 @media screen and (max-width: 769px) {
   .p-intro-station__group:not(:first-child) .p-intro-station__item-content {
-    display: none;
+    /* display: none; */
   }
 }
 
@@ -65,7 +65,7 @@
     margin-right: 15px !important;
   }
   .p-intro-station__item:not(:first-child) {
-    display: none;
+    /* display: none; */
   }
 }
 
@@ -79,7 +79,7 @@
 
 @media screen and (min-width: 770px) {
   .p-intro-station__item-handle {
-    display: none;
+    /* display: none; */
   }
 }
 
